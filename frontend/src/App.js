@@ -2,7 +2,7 @@
 
 const App = () => {
   return (
-    <p1>Well Cme to my proshop!</p1>
+    <h1>Well Cme to my proshop!</h1>
   )
 }
 
